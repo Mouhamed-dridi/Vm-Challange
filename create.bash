@@ -1,3 +1,5 @@
+#!/bin/bash
+
 az vm create \
   --resource-group myResourceGroup \
   --name LinuxVM \
